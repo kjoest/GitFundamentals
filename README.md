@@ -8,3 +8,5 @@ Git is a version control system that allows us to track changes and commit them 
 - [git remote](./Commands/Remote.md)
 - [git push](./Commands/Push.md)
 - [git pull](./Commands/Pull.md)
+- [git status](./Commands/Status.md)
+- [git clone](./Commands/Clone.md)
